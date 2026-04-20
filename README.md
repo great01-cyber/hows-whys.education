@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -56,3 +57,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# hows-whys.education
+Hows & Whys is a curriculum‑aligned, reasoning‑focused educational platform designed to strengthen students’ conceptual understanding across subjects in the UK curriculum. The system addresses a well‑documented gap in contemporary schooling: students often demonstrate factual recall but struggle to articulate coherent explanations of how and why phenomena occur. This limitation affects attainment, transfer of knowledge, and long‑term retention.
+
+The platform operationalises principles from cognitive science, including elaborative interrogation, causal reasoning, metacognitive reflection, and schema construction. Students engage with subject‑specific prompts that require them to explain processes, mechanisms, and causal relationships rather than reproduce memorised definitions. Explanations may be submitted through written responses or audio recordings.
+
+A built‑in reasoning‑analysis engine evaluates student explanations using dimensions such as conceptual accuracy, causal coherence, completeness, and misconception patterns. The system generates structured, formative feedback that guides students toward deeper understanding. Teachers access a dashboard that aggregates reasoning data, highlights common misconceptions, and supports targeted reteaching and intervention.
+
+Importantly, the platform is designed for individual use outside the classroom, mirroring the operational model of established UK EdTech systems such as Seneca, Sparx, Century, Quizizz, and Tassomai. Teachers assign tasks; students complete them independently on personal devices; and the platform provides analytics that inform instructional decision‑making. This model avoids classroom noise constraints, reduces teacher workload, and enables scalable adoption.
+
+Overall, Hows & Whys functions as a reasoning‑first learning environment that complements existing curriculum delivery, enhances students’ explanatory competence, and provides educators with actionable insights into conceptual understanding.
+
+Asking how and why questions is necessary because these question types elicit causal reasoning, mechanistic explanation, and metacognitive reflection—core components of deep learning. They reveal misconceptions that traditional assessments cannot detect, promote the construction of coherent conceptual schemas, and support the transfer of knowledge to new contexts. Cognitive‑science research demonstrates that explanation‑based tasks strengthen long‑term retention through elaborative interrogation and self‑explanation. Within the UK curriculum, which emphasises reasoning, justification, and conceptual understanding, how and why questions provide a valid and reliable method for assessing the depth of student understanding rather than surface‑level recall.
+>>>>>>> 8cf05f446e6d9a9f466ea82ff6a09eab73092ea5
