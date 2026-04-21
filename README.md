@@ -1,4 +1,19 @@
 
+# Why my hows-whys educational app is about.
+Hows & Whys is a curriculum‑aligned, reasoning‑focused educational platform designed to strengthen students’ conceptual understanding across subjects in the UK curriculum. The system addresses a well‑documented gap in contemporary schooling: students often demonstrate factual recall but struggle to articulate coherent explanations of how and why phenomena occur. This limitation affects attainment, transfer of knowledge, and long‑term retention.
+
+The platform operationalises principles from cognitive science, including elaborative interrogation, causal reasoning, metacognitive reflection, and schema construction. Students engage with subject‑specific prompts that require them to explain processes, mechanisms, and causal relationships rather than reproduce memorised definitions. Explanations may be submitted through written responses or audio recordings.
+
+A built‑in reasoning‑analysis engine evaluates student explanations using dimensions such as conceptual accuracy, causal coherence, completeness, and misconception patterns. The system generates structured, formative feedback that guides students toward deeper understanding. Teachers access a dashboard that aggregates reasoning data, highlights common misconceptions, and supports targeted reteaching and intervention.
+
+Importantly, the platform is designed for individual use outside the classroom, mirroring the operational model of established UK EdTech systems such as Seneca, Sparx, Century, Quizizz, and Tassomai. Teachers assign tasks; students complete them independently on personal devices; and the platform provides analytics that inform instructional decision‑making. This model avoids classroom noise constraints, reduces teacher workload, and enables scalable adoption.
+
+Overall, Hows & Whys functions as a reasoning‑first learning environment that complements existing curriculum delivery, enhances students’ explanatory competence, and provides educators with actionable insights into conceptual understanding.
+
+Asking how and why questions is necessary because these question types elicit causal reasoning, mechanistic explanation, and metacognitive reflection—core components of deep learning. They reveal misconceptions that traditional assessments cannot detect, promote the construction of coherent conceptual schemas, and support the transfer of knowledge to new contexts. Cognitive‑science research demonstrates that explanation‑based tasks strengthen long‑term retention through elaborative interrogation and self‑explanation. Within the UK curriculum, which emphasises reasoning, justification, and conceptual understanding, how and why questions provide a valid and reliable method for assessing the depth of student understanding rather than surface‑level recall.
+
+
+
 # Why I am building the hows-whys educational app.
 
 Mushtaq(2025) describes Rote learning "as the mechanical memorisation of information without consideration of its meaning or practical application." Despite its usefulness for immediate recall during assessments, contemporary studies consistently indicate that rote memorisation does not foster advanced cognitive processes (Mushtaq, 2025). Although rote memorisation can support quick recall during assessments, recent research shows it does little to develop higher‑order thinking (Mushtaq, 2025). Cognitive psychology further demonstrates that an overreliance on memorising facts restricts students’ ability to analyse, synthesise, and evaluate information — capacities central to deep learning (Westbury & Wilensky, n.d.). The existence of high-stakes, examination-driven cultures entrenches this model,as educators and students feel pressurwed to prioritise test result through memorisation rather the meaningful learning. Mushtaq(2025) caputures it best: "The very structures intended to assess knowledge ironically perpetuate a limited instructional focus that impedes intellcual growth"
@@ -37,31 +52,9 @@ Doesn't challenge the brain
 
 
 
-
-Hows & Whys is a curriculum‑aligned, reasoning‑focused educational platform designed to strengthen students’ conceptual understanding across subjects in the UK curriculum. The system addresses a well‑documented gap in contemporary schooling: students often demonstrate factual recall but struggle to articulate coherent explanations of how and why phenomena occur. This limitation affects attainment, transfer of knowledge, and long‑term retention.
-
-The platform operationalises principles from cognitive science, including elaborative interrogation, causal reasoning, metacognitive reflection, and schema construction. Students engage with subject‑specific prompts that require them to explain processes, mechanisms, and causal relationships rather than reproduce memorised definitions. Explanations may be submitted through written responses or audio recordings.
-
-A built‑in reasoning‑analysis engine evaluates student explanations using dimensions such as conceptual accuracy, causal coherence, completeness, and misconception patterns. The system generates structured, formative feedback that guides students toward deeper understanding. Teachers access a dashboard that aggregates reasoning data, highlights common misconceptions, and supports targeted reteaching and intervention.
-
-Importantly, the platform is designed for individual use outside the classroom, mirroring the operational model of established UK EdTech systems such as Seneca, Sparx, Century, Quizizz, and Tassomai. Teachers assign tasks; students complete them independently on personal devices; and the platform provides analytics that inform instructional decision‑making. This model avoids classroom noise constraints, reduces teacher workload, and enables scalable adoption.
-
-Overall, Hows & Whys functions as a reasoning‑first learning environment that complements existing curriculum delivery, enhances students’ explanatory competence, and provides educators with actionable insights into conceptual understanding.
-
-Asking how and why questions is necessary because these question types elicit causal reasoning, mechanistic explanation, and metacognitive reflection—core components of deep learning. They reveal misconceptions that traditional assessments cannot detect, promote the construction of coherent conceptual schemas, and support the transfer of knowledge to new contexts. Cognitive‑science research demonstrates that explanation‑based tasks strengthen long‑term retention through elaborative interrogation and self‑explanation. Within the UK curriculum, which emphasises reasoning, justification, and conceptual understanding, how and why questions provide a valid and reliable method for assessing the depth of student understanding rather than surface‑level recall.
-
 These findings suggest that unfamiliarity acts as a trigger for students to engage in more active thinking; the greater diagnostic challenge apparently encourages them to generate more self-explanations, and eventually leads to better learning.20, 26 Even more interesting is the potential contribution of biomedical knowledge to the benefit of SE. Studies looking at the benefits of integrating relevant biomedical knowledge in the process of learning clinical reasoning in novice diagnosticians suggest that it may help students construct more coherent mental representations of diseases, increasing retention in the longer term and helping them to diagnose difficult cases.12, 37, 38 Similarly, self-explanation when used while solving less familiar cases seems to activate students׳ biomedical knowledge, which could in turn help them create new links between biomedical and clinical knowledge and eventually construct a more coherent illness scripts or representation of a disease.
 
 Self-explanation is thought to support schema construction, which can lead to reduced intrinsic load during independent problem solving, due to information becoming ‘chunked’ (Joo et al., 2020). When solving problems, students are prone to memorising steps without necessarily understanding the purpose of each step (Siegler, 2002). Self-explanation encourages them to generate inferences about steps, which facilitates understanding of the principles involved in solving the problem (R. K. Atkinson et al., 2003). There is some evidence that higher performing students often use, and benefit from, self-explanation instinctively (Ionas et al., 2012), suggesting that encouraging self-explanation may particularly benefit lower performing students.
-
-Joo, H., Lee, J., & Kim, D. (2020). Advancing the design of self-explanation prompts for complex problem-solving. International Journal of Learning, Teaching and Educational Research, 19(11), 88–108. https://doi.org/10.26803/IJLTER.19.11.6
-
-Siegler, R. S. (2002). Microgenetic studies of self-explanation. In N. Garnott & J. Parxiale (Eds.), Microdevelopment: Transition processes in development and learning (pp. 31–58). Cambridge University Press.
-
-Ionas, I. G., Cernusca, D., & Collier, H. L. (2012). Prior knowledge influence on self-explanation effectiveness when solving problems: An exploratory study in science learning. International Journal of Teaching and Learning in Higher Education, 24(3), 349–358. http://www.isetl.org/ijtlhe/
-
-Atkinson, R. K., Renkl, A., & Merrill, M. M. (2003). Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked-out steps. Journal of Educational Psychology, 95(4), 774–783. https://doi.org/10.1037/0022-0663.95.4.774
-
 
 
 
@@ -197,4 +190,15 @@ Bisra, K., Liu, Q., Nesbit, J., Salimi, F. and Winne, P. (2018). Inducing Self-E
 Kiran Mushtaq (2025): The Persistence of Rote Learning Threatening Critical Thinking. https://www.howtests.com/articles/the-persistence-of-rote-learning-threatening-critical-thinking?utm_source
 
 Chris Westbury & Uri Wilensky (n.d.) Knowledge representation in cognitive science: Implications for education
+
+
+Joo, H., Lee, J., & Kim, D. (2020). Advancing the design of self-explanation prompts for complex problem-solving. International Journal of Learning, Teaching and Educational Research, 19(11), 88–108. https://doi.org/10.26803/IJLTER.19.11.6
+
+Siegler, R. S. (2002). Microgenetic studies of self-explanation. In N. Garnott & J. Parxiale (Eds.), Microdevelopment: Transition processes in development and learning (pp. 31–58). Cambridge University Press.
+
+Ionas, I. G., Cernusca, D., & Collier, H. L. (2012). Prior knowledge influence on self-explanation effectiveness when solving problems: An exploratory study in science learning. International Journal of Teaching and Learning in Higher Education, 24(3), 349–358. http://www.isetl.org/ijtlhe/
+
+Atkinson, R. K., Renkl, A., & Merrill, M. M. (2003). Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked-out steps. Journal of Educational Psychology, 95(4), 774–783. https://doi.org/10.1037/0022-0663.95.4.774
+
+
 ‌
