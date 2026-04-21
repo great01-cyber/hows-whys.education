@@ -1,5 +1,5 @@
 
-# This is the summary of I am building the hows-whys educational app.
+# This is the summary of why I am building the hows-whys educational app.
 
 Concerns about rote learning are strongly supported by recent evidence.
 
@@ -28,7 +28,7 @@ It is geared towards scoring marks
 It is repetitive
 Doesn't challenge the brain
 
-Rote learning "as the mechanical memorisation of information without consideration of its meaning or practical application." Despite it's utility in enabling short-term recall for exams, contemporary research increasingly demonstartes that rote learning is ill=situed to culovate hihger=order congntive skills. Studies in cognitive cognitive psychology highlight how reliance on memorisation retricts students' ability to engage in critical analysis, synt
+Rote learning "as the mechanical memorisation of information without consideration of its meaning or practical application." Despite it's utility in enabling short-term recall for exams, contemporary research increasingly demonstartes that rote learning is ill=situed to culovate hihger=order congntive skills. Studies in cognitive cognitive psychology highlight how reliance on memorisation retricts students' ability to engage in critical analysis, synthesis, and evaluation, key components of deep learning. "Furthemore, the existence of high-stakes, examination-driven cultures entrenches this model,as educators and students feel pressurwd to prioritise test result through memorisation rather the meaningful learning. The very structures intended to assess knowledge ironically perpetuate a limuted instructional focus that impedes intellcual growth"
 
 
 
