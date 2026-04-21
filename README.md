@@ -22,7 +22,9 @@ Since the seminal study by Chi22 that showed self-explanation to be effective in
 
 Self-explanation has been used with a variety of learning materials that include texts, problems and worked examples, which are examples providing the solution steps of the problem.18, 21 Self-explanation has also been used for a variety of learners ranging from elementary school learners to higher education students.18 The self-explanation effect has also been demonstrated by using a wide range of assessment criterion from measures of memory, to comprehension, and to problem solving and on near as well as on far transfer tasks.18 It has been observed that the benefit obtained from self-explanation increases when the problem at hand is complex.20, 24, 26 In an study by Chi et al.24 
 
-comparing 8th grade learners studying a human circulatory problem with or without SE, the learning improvement of the experimental group compared to the control was more remarkable (22.6% experimental group vs 12.5% control group) for the most difficult questions requiring application of knowledge to solve a new problem. Similarly, Wong et al.26 compared 9th grade students trained to use self-explanation strategies while studying geometry theorem with a control group whose students used their usual studying technique
+comparing 8th grade learners studying a human circulatory problem with or without SE, the learning improvement of the experimental group compared to the control was more remarkable (22.6% experimental group vs 12.5% control group) for the most difficult questions requiring application of knowledge to solve a new problem. Similarly, Wong et al.26 compared 9th grade students trained to use self-explanation strategies while studying geometry theorem with a control group whose students used their usual studying technique.
+
+Although both groups showed equal performance on domain-specific knowledge test, the self-explanation group outperform the control group on problem solving with in particular on far-transfer items, that is, problems that were substantially different from those used in the learning session.26
 
 
 
