@@ -29,7 +29,7 @@ Independent policy organisations have echoed these findings. In 2024, the Social
 
 Taken together, this evidence suggests that GCSE assessment increasingly rewards short‑term recall and exam technique rather than the development of durable understanding (Tutorsail, 2025).
 
-Pratima Yadav identifies several negative consequences of rote learning:
+Pratima Yadav (2025) further identifies several negative consequences of rote learning:
 
 #### No connection between previous and new knowledge
 
@@ -59,19 +59,11 @@ Pratima Yadav identifies several negative consequences of rote learning:
 
 #### Doesn't challenge the brain
 
-These findings suggest that unfamiliarity acts as a trigger for students to engage in more active thinking; the greater diagnostic challenge apparently encourages them to generate more self-explanations, and eventually leads to better learning.20, 26 Even more interesting is the potential contribution of biomedical knowledge to the benefit of SE. Studies looking at the benefits of integrating relevant biomedical knowledge in the process of learning clinical reasoning in novice diagnosticians suggest that it may help students construct more coherent mental representations of diseases, increasing retention in the longer term and helping them to diagnose difficult cases.12, 37, 38 Similarly, self-explanation when used while solving less familiar cases seems to activate students׳ biomedical knowledge, which could in turn help them create new links between biomedical and clinical knowledge and eventually construct a more coherent illness scripts or representation of a disease.
-
-Self-explanation is thought to support schema construction, which can lead to reduced intrinsic load during independent problem solving, due to information becoming ‘chunked’ (Joo et al., 2020). When solving problems, students are prone to memorising steps without necessarily understanding the purpose of each step (Siegler, 2002). Self-explanation encourages them to generate inferences about steps, which facilitates understanding of the principles involved in solving the problem (R. K. Atkinson et al., 2003). There is some evidence that higher performing students often use, and benefit from, self-explanation instinctively (Ionas et al., 2012), suggesting that encouraging self-explanation may particularly benefit lower performing students.
-
-
-
-
-‘The most powerful application of self-explanation may arise after learners have made an initial explanation and then are prompted to revise it when new information highlights gaps or errors.’
 
 # Core Theoretical Frameworks That Align With Hows & Whys App
-# 1. Self‑Explanation Theory (Chi, 1989–2000s)
+## 1. Self‑Explanation Theory (Chi, 1989–2000s)
 
-
+Self-explanation is thought to support schema construction, which can lead to reduced intrinsic load during independent problem solving, due to information becoming ‘chunked’ (Joo et al., 2020). When solving problems, students are prone to memorising steps without necessarily understanding the purpose of each step (Siegler, 2002). Self-explanation encourages them to generate inferences about steps, which facilitates understanding of the principles involved in solving the problem (R. K. Atkinson et al., 2003). There is some evidence that higher performing students often use, and benefit from, self-explanation instinctively (Ionas et al., 2012), suggesting that encouraging self-explanation may particularly benefit lower performing students.
 
 Self-explanation (SE) is a learning technique in which students explain to themselves pieces of a learning material for the purpose of improving their understanding. "The mechanisms through which self-explanation fosters learning are described. Self-explanation promotes knowledge development and revision of mental representations through elaboration on new information, organisation and integration of new knowledge into existing cognitive structures and monitoring of the learning process." Available studies have demonstrated that students׳ diagnostic performance improves when they use self-explanation while solving clinical problems of a less familiar clinical topic. Unfamiliarity seems to trigger more self-explanations and to stimulate students to reactivate relevant biomedical knowledge, which could lead to the development of more coherent representations of diseases. 
 
@@ -88,7 +80,7 @@ comparing 8th grade learners studying a human circulatory problem with or withou
 
 Although both groups showed equal performance on domain-specific knowledge test, the self-explanation group outperform the control group on problem solving with in particular on far-transfer items, that is, problems that were substantially different from those used in the learning session.26
 
-
+These findings suggest that unfamiliarity acts as a trigger for students to engage in more active thinking; the greater diagnostic challenge apparently encourages them to generate more self-explanations, and eventually leads to better learning.20, 26 Even more interesting is the potential contribution of biomedical knowledge to the benefit of SE. Studies looking at the benefits of integrating relevant biomedical knowledge in the process of learning clinical reasoning in novice diagnosticians suggest that it may help students construct more coherent mental representations of diseases, increasing retention in the longer term and helping them to diagnose difficult cases.12, 37, 38 Similarly, self-explanation when used while solving less familiar cases seems to activate students׳ biomedical knowledge, which could in turn help them create new links between biomedical and clinical knowledge and eventually construct a more coherent illness scripts or representation of a disease.
 
 Significant learning gains have been shown in students who are prompted to generate explanations as opposed to being provided with an explanation or simply reviewing material (Pressley, McDaniel, Turnure, Wood, & Ahmad, 1987). Researchers hypothesize that elaborate interrogation prompts learners to associate new material with prior knowledge and create new knowledge structures (Willoughby & Wood, 1994). The benefits of self-explanation have been demonstrated across a broad range of content areas, for learners with both high and low abilities (Chi, de Leeuw, Chiu, & LaVancher, 1994), and when used with both direct instruction and discovery learning (Rittle-Johnson, 2006).Self-explanation is an active learning technique of proven effectiveness in other domains which consists of having students explaining to themselves information on to-be-learned materials. 
 
@@ -99,6 +91,7 @@ Chamberland et al. (2011) conducted the first known study examining how self‑e
 One week later, students diagnosed new, more difficult cases in the same topic areas. Those who had used SE showed significantly higher diagnostic performance (71% vs. 55%), but only for cases in less familiar topics. No benefit appeared for familiar conditions. "This suggests that self-explanation is a bridge to better understanding when you are trying to learn unfamiliar material.(Taling Learning Seriouslt, 2021)"
 
 The authors concluded that SE helps students revise and reorganise their knowledge, leading to more coherent mental representations—an effect strongest when students’ existing illness scripts are weak and therefore more open to restructuring. The improvement on delayed, transfer tasks indicates meaningful learning, not short‑term recall.
+The most powerful application of self-explanation may arise after learners have made an initial explanation and then are prompted to revise it when new information highlights gaps or errors.’
 Why it aligns:  
 Hows & Whys requires learners to articulate how something works and why it happens. This is exactly what self‑explanation theory describes: learners generate explanations that reveal causal and mechanistic understanding.
 
