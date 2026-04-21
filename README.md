@@ -1,9 +1,11 @@
 
-# This is the summary of why I am building the hows-whys educational app.
+# Why I am building the hows-whys educational app.
 
 Concerns about rote learning are strongly supported by recent evidence.
 
 In 2023, the House of Commons Education Committee concluded that the 11–16 curriculum had become overly “knowledge-rich”, leading to narrow teaching methods and excessive exam focus. The inquiry found that skills such as creativity, problem-solving, and independent thinking had been squeezed out, particularly during GCSE preparation.
+
+Rote learning "as the mechanical memorisation of information without consideration of its meaning or practical application." Despite it's utility in enabling short-term recall for exams, contemporary research increasingly demonstartes that rote learning is ill=situed to culovate hihger=order congntive skills. Studies in cognitive cognitive psychology highlight how reliance on memorisation retricts students' ability to engage in critical analysis, synthesis, and evaluation, key components of deep learning. "Furthemore, the existence of high-stakes, examination-driven cultures entrenches this model,as educators and students feel pressurwd to prioritise test result through memorisation rather the meaningful learning. The very structures intended to assess knowledge ironically perpetuate a limuted instructional focus that impedes intellcual growth"
 
 Teachers echoed this view. Dr Mary Bousted, speaking for the National Education Union, argued that when teachers are forced to cover an excessive amount of content, “of course you resort to rote learning.”
 
@@ -28,7 +30,7 @@ It is geared towards scoring marks
 It is repetitive
 Doesn't challenge the brain
 
-Rote learning "as the mechanical memorisation of information without consideration of its meaning or practical application." Despite it's utility in enabling short-term recall for exams, contemporary research increasingly demonstartes that rote learning is ill=situed to culovate hihger=order congntive skills. Studies in cognitive cognitive psychology highlight how reliance on memorisation retricts students' ability to engage in critical analysis, synthesis, and evaluation, key components of deep learning. "Furthemore, the existence of high-stakes, examination-driven cultures entrenches this model,as educators and students feel pressurwd to prioritise test result through memorisation rather the meaningful learning. The very structures intended to assess knowledge ironically perpetuate a limuted instructional focus that impedes intellcual growth"
+
 
 
 
@@ -170,6 +172,9 @@ Hows & Whys supports conceptual change by forcing learners to reconcile misconce
 
 # References
 Berry, D. C. (1983). Metacognitive experience and transfer of logical reasoning. Quarterly Journal of Experimental Psychology, 35A, 39–49.
+
+Chamberland, M. and Mamede, S. (2015). Self-Explanation, An Instructional Strategy to Foster Clinical Reasoning in Medical Students. Health Professions Education, 1(1), pp.24–33. doi:https://doi.org/10.1016/j.hpe.2015.11.005.
+
 
 Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. Cognitive Science, 18, 439–477.
 
