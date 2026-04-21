@@ -14,7 +14,8 @@ Asking how and why questions is necessary because these question types elicit ca
 
 # Core Theoretical Frameworks That Align With Hows & Whys
 # 1. Self‑Explanation Theory (Chi, 1989–2000s)
-ignificant learning gains have been shown in students who are prompted to generate explanations as opposed to being provided with an explanation or simply reviewing material (Pressley, McDaniel, Turnure, Wood, & Ahmad, 1987). Researchers hypothesize that elaborate interrogation prompts learners to associate new material with prior knowledge and create new knowledge structures (Willoughby & Wood, 1994). The benefits of self-explanation have been demonstrated across a broad range of content areas, for learners with both high and low abilities (Chi, de Leeuw, Chiu, & LaVancher, 1994), and when used with both direct instruction and discovery learning (Rittle-Johnson, 2006).
+Self-explanation (SE) is a learning technique in which students explain to themselves pieces of a learning material for the purpose of improving their understanding.
+Significant learning gains have been shown in students who are prompted to generate explanations as opposed to being provided with an explanation or simply reviewing material (Pressley, McDaniel, Turnure, Wood, & Ahmad, 1987). Researchers hypothesize that elaborate interrogation prompts learners to associate new material with prior knowledge and create new knowledge structures (Willoughby & Wood, 1994). The benefits of self-explanation have been demonstrated across a broad range of content areas, for learners with both high and low abilities (Chi, de Leeuw, Chiu, & LaVancher, 1994), and when used with both direct instruction and discovery learning (Rittle-Johnson, 2006).
 Why it aligns:  
 Hows & Whys requires learners to articulate how something works and why it happens. This is exactly what self‑explanation theory describes: learners generate explanations that reveal causal and mechanistic understanding.
 
