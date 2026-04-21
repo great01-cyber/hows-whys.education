@@ -1,6 +1,8 @@
 
 # Why I am building the hows-whys educational app.
 
+Mushtaq(2025)describes Rote learning "as the mechanical memorisation of information without consideration of its meaning or practical application." Despite its usefulness for immediate recall during assessments, contemporary studies consistently indicate that rote memorisation does not foster advanced cognitive processes (Mushtaq, 2025). Research in cognitive psychology shows that heavy dependence on memorisation limits students’ capacity to think critically, integrate ideas, and make evaluative judgments — all essential for deep learning (Westbury and Wilensky, n.d.). "Furthemore, the existence of high-stakes, examination-driven cultures entrenches this model,as educators and students feel pressurwd to prioritise test result through memorisation rather the meaningful learning. The very structures intended to assess knowledge ironically perpetuate a limuted instructional focus that impedes intellcual growth"
+
 Concerns about rote learning are strongly supported by recent evidence.
 
 In 2023, the House of Commons Education Committee concluded that the 11–16 curriculum had become overly “knowledge-rich”, leading to narrow teaching methods and excessive exam focus. The inquiry found that skills such as creativity, problem-solving, and independent thinking had been squeezed out, particularly during GCSE preparation.
@@ -189,4 +191,8 @@ Willoughby, T., & Wood, E. (1994). Elaborative interrogation examined at encodin
 Jarrett, C. (2018). Self-explanation is a powerful learning technique, according to meta-analysis of 64 studies involving 6000 participants. [online] BPS. Available at: https://www.bps.org.uk/research-digest/self-explanation-powerful-learning-technique-according-meta-analysis-64-studies.
 
 Bisra, K., Liu, Q., Nesbit, J., Salimi, F. and Winne, P. (2018). Inducing Self-Explanation: a Meta-Analysis. Educational Psychology Review, 30(3), pp.703 – 725.
+
+Kiran Mushtaq (2025): The Persistence of Rote Learning Threatening Critical Thinking. https://www.howtests.com/articles/the-persistence-of-rote-learning-threatening-critical-thinking?utm_source
+
+Chris Westbury & Uri Wilensky (n.d.) Knowledge representation in cognitive science: Implications for education
 ‌
