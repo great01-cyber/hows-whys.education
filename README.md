@@ -1,5 +1,24 @@
 
 # This is the summary of I am building the hows-whys educational app.
+
+Rote learning is learning by memorizing rather than thinking and reasoning. While useful in some situations, rote learning isn’t the most effective learning process.
+
+No connection between previous and new knowledge
+Easy to loose focus
+Doesn't allow for deeper understanding of subjects
+Doesn't encourage the use of social skills
+Creativity in students is stunted and suppressed
+Students do not learn how to think, analyze or solve problems
+Lack of critical thinking
+Promotes convergent thinking
+Denies exploring different options
+Makes people followers, not leaders
+Is short term
+It is geared towards scoring marks
+It is repetitive
+Doesn't challenge the brain
+
+
 Hows & Whys is a curriculum‑aligned, reasoning‑focused educational platform designed to strengthen students’ conceptual understanding across subjects in the UK curriculum. The system addresses a well‑documented gap in contemporary schooling: students often demonstrate factual recall but struggle to articulate coherent explanations of how and why phenomena occur. This limitation affects attainment, transfer of knowledge, and long‑term retention.
 
 The platform operationalises principles from cognitive science, including elaborative interrogation, causal reasoning, metacognitive reflection, and schema construction. Students engage with subject‑specific prompts that require them to explain processes, mechanisms, and causal relationships rather than reproduce memorised definitions. Explanations may be submitted through written responses or audio recordings.
