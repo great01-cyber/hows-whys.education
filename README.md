@@ -1,5 +1,5 @@
 
-# hows-whys.education
+# This is the summary of I am building the hows-whys educational app.
 Hows & Whys is a curriculum‑aligned, reasoning‑focused educational platform designed to strengthen students’ conceptual understanding across subjects in the UK curriculum. The system addresses a well‑documented gap in contemporary schooling: students often demonstrate factual recall but struggle to articulate coherent explanations of how and why phenomena occur. This limitation affects attainment, transfer of knowledge, and long‑term retention.
 
 The platform operationalises principles from cognitive science, including elaborative interrogation, causal reasoning, metacognitive reflection, and schema construction. Students engage with subject‑specific prompts that require them to explain processes, mechanisms, and causal relationships rather than reproduce memorised definitions. Explanations may be submitted through written responses or audio recordings.
