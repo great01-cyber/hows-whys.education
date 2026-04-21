@@ -1,13 +1,12 @@
 
 # Why I am building the hows-whys educational app.
 
-Mushtaq(2025)describes Rote learning "as the mechanical memorisation of information without consideration of its meaning or practical application." Despite its usefulness for immediate recall during assessments, contemporary studies consistently indicate that rote memorisation does not foster advanced cognitive processes (Mushtaq, 2025). Research in cognitive psychology shows that heavy dependence on memorisation limits students’ capacity to think critically, integrate ideas, and make evaluative judgments — all essential for deep learning (Westbury and Wilensky, n.d.). "Furthemore, the existence of high-stakes, examination-driven cultures entrenches this model,as educators and students feel pressurwd to prioritise test result through memorisation rather the meaningful learning. The very structures intended to assess knowledge ironically perpetuate a limuted instructional focus that impedes intellcual growth"
+Mushtaq(2025) describes Rote learning "as the mechanical memorisation of information without consideration of its meaning or practical application." Despite its usefulness for immediate recall during assessments, contemporary studies consistently indicate that rote memorisation does not foster advanced cognitive processes (Mushtaq, 2025). Although rote memorisation can support quick recall during assessments, recent research shows it does little to develop higher‑order thinking (Mushtaq, 2025). Cognitive psychology further demonstrates that an overreliance on memorising facts restricts students’ ability to analyse, synthesise, and evaluate information — capacities central to deep learning (Westbury & Wilensky, n.d.). The existence of high-stakes, examination-driven cultures entrenches this model,as educators and students feel pressurwed to prioritise test result through memorisation rather the meaningful learning. Mushtaq(2025) caputures it best: "The very structures intended to assess knowledge ironically perpetuate a limited instructional focus that impedes intellcual growth"
 
 Concerns about rote learning are strongly supported by recent evidence.
 
 In 2023, the House of Commons Education Committee concluded that the 11–16 curriculum had become overly “knowledge-rich”, leading to narrow teaching methods and excessive exam focus. The inquiry found that skills such as creativity, problem-solving, and independent thinking had been squeezed out, particularly during GCSE preparation.
 
-Rote learning "as the mechanical memorisation of information without consideration of its meaning or practical application." Despite it's utility in enabling short-term recall for exams, contemporary research increasingly demonstartes that rote learning is ill=situed to culovate hihger=order congntive skills. Studies in cognitive cognitive psychology highlight how reliance on memorisation retricts students' ability to engage in critical analysis, synthesis, and evaluation, key components of deep learning. "Furthemore, the existence of high-stakes, examination-driven cultures entrenches this model,as educators and students feel pressurwd to prioritise test result through memorisation rather the meaningful learning. The very structures intended to assess knowledge ironically perpetuate a limuted instructional focus that impedes intellcual growth"
 
 Teachers echoed this view. Dr Mary Bousted, speaking for the National Education Union, argued that when teachers are forced to cover an excessive amount of content, “of course you resort to rote learning.”
 
@@ -16,6 +15,8 @@ Think tanks have reached similar conclusions. The Social Market Foundation repor
 Together, these findings suggest that GCSEs increasingly reward recall and exam technique rather than sustained understanding.
 
 Rote learning is learning by memorizing rather than thinking and reasoning. While useful in some situations, rote learning isn’t the most effective learning process.
+
+Pratima Yadav listed the following mayham o rote learning as follows :
 
 No connection between previous and new knowledge
 Easy to loose focus
