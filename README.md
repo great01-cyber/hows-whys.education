@@ -14,9 +14,23 @@ Asking how and why questions is necessary because these question types elicit ca
 
 These findings suggest that unfamiliarity acts as a trigger for students to engage in more active thinking; the greater diagnostic challenge apparently encourages them to generate more self-explanations, and eventually leads to better learning.20, 26 Even more interesting is the potential contribution of biomedical knowledge to the benefit of SE. Studies looking at the benefits of integrating relevant biomedical knowledge in the process of learning clinical reasoning in novice diagnosticians suggest that it may help students construct more coherent mental representations of diseases, increasing retention in the longer term and helping them to diagnose difficult cases.12, 37, 38 Similarly, self-explanation when used while solving less familiar cases seems to activate students׳ biomedical knowledge, which could in turn help them create new links between biomedical and clinical knowledge and eventually construct a more coherent illness scripts or representation of a disease.
 
+Self-explanation is thought to support schema construction, which can lead to reduced intrinsic load during independent problem solving, due to information becoming ‘chunked’ (Joo et al., 2020). When solving problems, students are prone to memorising steps without necessarily understanding the purpose of each step (Siegler, 2002). Self-explanation encourages them to generate inferences about steps, which facilitates understanding of the principles involved in solving the problem (R. K. Atkinson et al., 2003). There is some evidence that higher performing students often use, and benefit from, self-explanation instinctively (Ionas et al., 2012), suggesting that encouraging self-explanation may particularly benefit lower performing students.
+
+Joo, H., Lee, J., & Kim, D. (2020). Advancing the design of self-explanation prompts for complex problem-solving. International Journal of Learning, Teaching and Educational Research, 19(11), 88–108. https://doi.org/10.26803/IJLTER.19.11.6
+
+Siegler, R. S. (2002). Microgenetic studies of self-explanation. In N. Garnott & J. Parxiale (Eds.), Microdevelopment: Transition processes in development and learning (pp. 31–58). Cambridge University Press.
+
+Ionas, I. G., Cernusca, D., & Collier, H. L. (2012). Prior knowledge influence on self-explanation effectiveness when solving problems: An exploratory study in science learning. International Journal of Teaching and Learning in Higher Education, 24(3), 349–358. http://www.isetl.org/ijtlhe/
+
+Atkinson, R. K., Renkl, A., & Merrill, M. M. (2003). Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked-out steps. Journal of Educational Psychology, 95(4), 774–783. https://doi.org/10.1037/0022-0663.95.4.774
+
+
+
+
+
 ‘The most powerful application of self-explanation may arise after learners have made an initial explanation and then are prompted to revise it when new information highlights gaps or errors.’
 
-# Core Theoretical Frameworks That Align With Hows & Whys
+# Core Theoretical Frameworks That Align With Hows & Whys App
 # 1. Self‑Explanation Theory (Chi, 1989–2000s)
 
 
