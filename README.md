@@ -19,6 +19,7 @@ Rote learning is learning by memorizing rather than thinking and reasoning. Whil
 Pratima Yadav listed the following mayham o rote learning as follows :
 
 No connection between previous and new knowledge
+
 Easy to loose focus
 Doesn't allow for deeper understanding of subjects
 Doesn't encourage the use of social skills
