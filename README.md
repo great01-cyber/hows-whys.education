@@ -1,6 +1,16 @@
 
 # This is the summary of I am building the hows-whys educational app.
 
+Concerns about rote learning are strongly supported by recent evidence.
+
+In 2023, the House of Commons Education Committee concluded that the 11–16 curriculum had become overly “knowledge-rich”, leading to narrow teaching methods and excessive exam focus. The inquiry found that skills such as creativity, problem-solving, and independent thinking had been squeezed out, particularly during GCSE preparation.
+
+Teachers echoed this view. Dr Mary Bousted, speaking for the National Education Union, argued that when teachers are forced to cover an excessive amount of content, “of course you resort to rote learning.”
+
+Think tanks have reached similar conclusions. The Social Market Foundation reported in 2024 that curriculum overload leads schools to prioritise exam preparation over deep understanding, while the Tony Blair Institute for Global Change warned that England’s education system relies too heavily on passive learning and memorisation.
+
+Together, these findings suggest that GCSEs increasingly reward recall and exam technique rather than sustained understanding.
+
 Rote learning is learning by memorizing rather than thinking and reasoning. While useful in some situations, rote learning isn’t the most effective learning process.
 
 No connection between previous and new knowledge
