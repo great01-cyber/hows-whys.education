@@ -1,4 +1,3 @@
-
 # What the hows-whys educational app is about.
 Hows & Whys is a curriculum‑aligned, reasoning‑focused educational platform designed to strengthen students’ conceptual understanding across subjects in the UK curriculum. The system addresses a well‑documented gap in contemporary schooling: students often demonstrate factual recall but struggle to articulate coherent explanations of how and why phenomena occur. This limitation affects attainment, transfer of knowledge, and long‑term retention.
 
@@ -12,7 +11,6 @@ Overall, Hows & Whys functions as a reasoning‑first learning environment that 
 
 Asking how and why questions is necessary because these question types elicit causal reasoning, mechanistic explanation, and metacognitive reflection—core components of deep learning. They reveal misconceptions that traditional assessments cannot detect, promote the construction of coherent conceptual schemas, and support the transfer of knowledge to new contexts. Cognitive‑science research demonstrates that explanation‑based tasks strengthen long‑term retention through elaborative interrogation and self‑explanation. Within the UK curriculum, which emphasises reasoning, justification, and conceptual understanding, how and why questions provide a valid and reliable method for assessing the depth of student understanding rather than surface‑level recall.
 
-
 # Why I am building the hows-whys educational app.
 
 Concerns about rote learning are strongly supported by recent evidence.
@@ -25,34 +23,41 @@ According to Nesta "The UK, however, is failing to prioritise the range of skill
 
 A 2023 inquiry by the House of Commons Education Committee reported that the curriculum for pupils aged 11–16 had become disproportionately weighted toward factual content, resulting in narrow pedagogical approaches and an excessive emphasis on examinations. The committee noted that this shift had marginalised essential capabilities such as creativity, problem‑solving, and independent thought — particularly in the run‑up to GCSEs (Tutorsail, 2025).
 
-Teachers expressed similar concerns. Representing the National Education Union, Dr Mary Bousted explained that when educators are required to race through an overloaded syllabus, they inevitably fall back on memorisation‑driven teaching.
+Teachers expressed similar concerns. Representing the National Education Union, Dr Mary Bousted explained that when educators are required to race through an overloaded syllabus, they inevitably fall back on memorisation‑driven teaching (Tutorsail, 2025).
 
-Independent policy organisations have echoed these findings. In 2024, the Social Market Foundation argued that curriculum overload pushes schools to prioritise exam readiness at the expense of deeper learning. Likewise, the Tony Blair Institute for Global Change warned that England’s system relies too heavily on passive instruction and the rote recall of information.
+Independent policy organisations have echoed these findings. In 2024, the Social Market Foundation argued that curriculum overload pushes schools to prioritise exam readiness at the expense of deeper learning. Likewise, the Tony Blair Institute for Global Change warned that England’s system relies too heavily on passive instruction and the rote recall of information (Tutorsail, 2025).
 
-Taken together, this evidence suggests that GCSE assessment increasingly rewards short‑term recall and exam technique rather than the development of durable understanding.
+Taken together, this evidence suggests that GCSE assessment increasingly rewards short‑term recall and exam technique rather than the development of durable understanding (Tutorsail, 2025).
 
-Rote learning is learning by memorizing rather than thinking and reasoning. While useful in some situations, rote learning isn’t the most effective learning process.
+Pratima Yadav identifies several negative consequences of rote learning:
 
-Pratima Yadav listed the following mayham o rote learning as follows :
+#### No connection between previous and new knowledge
 
-No connection between previous and new knowledge
+#### Easy to loose focus
 
-Easy to loose focus
-Doesn't allow for deeper understanding of subjects
-Doesn't encourage the use of social skills
-Creativity in students is stunted and suppressed
-Students do not learn how to think, analyze or solve problems
-Lack of critical thinking
-Promotes convergent thinking
-Denies exploring different options
-Makes people followers, not leaders
-Is short term
-It is geared towards scoring marks
-It is repetitive
-Doesn't challenge the brain
+#### Doesn't allow for deeper understanding of subjects
 
+#### Doesn't encourage the use of social skills
 
+#### Creativity in students is stunted and suppressed
 
+#### Students do not learn how to think, analyze or solve problems
+
+#### Lack of critical thinking
+
+#### Promotes convergent thinking
+
+#### Denies exploring different options
+
+#### Makes people followers, not leaders
+
+#### Is short term
+
+#### It is geared towards scoring marks
+
+#### It is repetitive
+
+#### Doesn't challenge the brain
 
 These findings suggest that unfamiliarity acts as a trigger for students to engage in more active thinking; the greater diagnostic challenge apparently encourages them to generate more self-explanations, and eventually leads to better learning.20, 26 Even more interesting is the potential contribution of biomedical knowledge to the benefit of SE. Studies looking at the benefits of integrating relevant biomedical knowledge in the process of learning clinical reasoning in novice diagnosticians suggest that it may help students construct more coherent mental representations of diseases, increasing retention in the longer term and helping them to diagnose difficult cases.12, 37, 38 Similarly, self-explanation when used while solving less familiar cases seems to activate students׳ biomedical knowledge, which could in turn help them create new links between biomedical and clinical knowledge and eventually construct a more coherent illness scripts or representation of a disease.
 
