@@ -16,10 +16,13 @@ These findings suggest that unfamiliarity acts as a trigger for students to enga
 
 # Core Theoretical Frameworks That Align With Hows & Whys
 # 1. Self‑Explanation Theory (Chi, 1989–2000s)
+
+The researchers also looked to see if any particular aspects of the practice of self-explanation make a difference to its effectiveness. They found some limited evidence that a multiple-choice format (in which the student chooses a range of explanations from a list) to be the least effective, perhaps because it lacks the self-generated elaboration that is usually involved in more open-ended self-explanation.
+
 Self-explanation (SE) is a learning technique in which students explain to themselves pieces of a learning material for the purpose of improving their understanding. "The mechanisms through which self-explanation fosters learning are described. Self-explanation promotes knowledge development and revision of mental representations through elaboration on new information, organisation and integration of new knowledge into existing cognitive structures and monitoring of the learning process." Available studies have demonstrated that students׳ diagnostic performance improves when they use self-explanation while solving clinical problems of a less familiar clinical topic. Unfamiliarity seems to trigger more self-explanations and to stimulate students to reactivate relevant biomedical knowledge, which could lead to the development of more coherent representations of diseases. 
 
  “the acquisition of new knowledge requires the students to be actively involved in the construction of their own knowledge”.
- Self-explanation is a powerful learning strategy because learners “generate inferences about causal connections and conceptual relationships that enhance understanding”.
+ Self-explanation is a powerful learning strategy because learners “generate inferences about causal connections and conceptual relationships that enhance understanding”. The authors of the meta-analysis, published recently in Educational Psychology Review, say that self-explanation is a powerful learning strategy because learners "generate inferences about causal connections and conceptual relationships that enhance understanding". The process of self-explanation also helps the learner realise what they don't know, "to fill in missing information, monitor understanding, and modify fusions of new information with prior knowledge when discrepancies or deficiencies are detected".
 
 Self-explanation differs from explaining to others. In the latter case, the explanation tends to be more formal and with an implicit demand for coherence. Explanation directed to others may take into account the listener׳s knowledge and requires some monitoring of his/her comprehension. Moreover, most of the time, the explainer will focus on knowledge he or she understands most. In contrast, self-explanation, as the term implies, is self-generated and self-directed. Self-explanation statements are often fragmented and incomplete and tend to focus on what the learner does not understand. Self-explanation involves a special effort to deepen the learner׳s personal comprehension by trying to resolve misunderstandings.22, 23
 
@@ -128,3 +131,7 @@ Pressley, M., McDaniel, M. A., Turnure, J. E., Wood, E., & Ahmad, M. (1987). Gen
 Rittle-Johnson, B. (2006). Promoting transfer: Effects of self-explanation and direct instruction. Child Development, 77, 1–15.
 
 Willoughby, T., & Wood, E. (1994). Elaborative interrogation examined at encoding and retrieval. Learning and Instruction, 4, 139–149.
+
+Jarrett, C. (2018). Self-explanation is a powerful learning technique, according to meta-analysis of 64 studies involving 6000 participants. [online] BPS. Available at: https://www.bps.org.uk/research-digest/self-explanation-powerful-learning-technique-according-meta-analysis-64-studies.
+
+‌
