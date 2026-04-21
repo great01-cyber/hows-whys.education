@@ -28,6 +28,9 @@ It is geared towards scoring marks
 It is repetitive
 Doesn't challenge the brain
 
+Rote learning "as the mechanical memorisation of information without consideration of its meaning or practical application." Despite it's utility in enabling short-term recall for exams, contemporary research increasingly demonstartes that rote learning is ill=situed to culovate hihger=order congntive skills. Studies in cognitive cognitive psychology highlight how reliance on memorisation retricts students' ability to engage in critical analysis, synt
+
+
 
 Hows & Whys is a curriculum‑aligned, reasoning‑focused educational platform designed to strengthen students’ conceptual understanding across subjects in the UK curriculum. The system addresses a well‑documented gap in contemporary schooling: students often demonstrate factual recall but struggle to articulate coherent explanations of how and why phenomena occur. This limitation affects attainment, transfer of knowledge, and long‑term retention.
 
