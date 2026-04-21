@@ -88,3 +88,16 @@ Your framework helps reorganise fragmented student ideas into coherent causal‑
 
 Key link:  
 Hows & Whys supports conceptual change by forcing learners to reconcile misconceptions through explanation.
+
+# References
+Berry, D. C. (1983). Metacognitive experience and transfer of logical reasoning. Quarterly Journal of Experimental Psychology, 35A, 39–49.
+
+Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. Cognitive Science, 18, 439–477.
+
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013).Improving students’ learning with effective learning techniques. Psychological Science in the Public Interest 14(1), 4–58.
+
+Pressley, M., McDaniel, M. A., Turnure, J. E., Wood, E., & Ahmad, M. (1987). Generation and precision of elaboration: Effects on intentional and incidental learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 13,291–300.
+
+Rittle-Johnson, B. (2006). Promoting transfer: Effects of self-explanation and direct instruction. Child Development, 77, 1–15.
+
+Willoughby, T., & Wood, E. (1994). Elaborative interrogation examined at encoding and retrieval. Learning and Instruction, 4, 139–149.
