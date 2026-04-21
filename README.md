@@ -23,14 +23,13 @@ In the UK, this challenge is intensified by a high‑stakes, exam‑driven educa
 
 According to Nesta "The UK, however, is failing to prioritise the range of skills young people need. Instead, it is a global leader in rote learning and teaching for memorisation". Among the world’s education systems, the UK has become an anomaly and is falling behind the rest of the world. Research recently presented by the OECD shows that the UK’s students ‘learn by heart’ the third most of all OECD countries.
 
-In 2023, the House of Commons Education Committee concluded that the 11–16 curriculum had become overly “knowledge-rich”, leading to narrow teaching methods and excessive exam focus. The inquiry found that skills such as creativity, problem-solving, and independent thinking had been squeezed out, particularly during GCSE preparation.
+A 2023 inquiry by the House of Commons Education Committee reported that the curriculum for pupils aged 11–16 had become disproportionately weighted toward factual content, resulting in narrow pedagogical approaches and an excessive emphasis on examinations. The committee noted that this shift had marginalised essential capabilities such as creativity, problem‑solving, and independent thought — particularly in the run‑up to GCSEs (Tutorsail, 2025).
 
+Teachers expressed similar concerns. Representing the National Education Union, Dr Mary Bousted explained that when educators are required to race through an overloaded syllabus, they inevitably fall back on memorisation‑driven teaching.
 
-Teachers echoed this view. Dr Mary Bousted, speaking for the National Education Union, argued that when teachers are forced to cover an excessive amount of content, “of course you resort to rote learning.”
+Independent policy organisations have echoed these findings. In 2024, the Social Market Foundation argued that curriculum overload pushes schools to prioritise exam readiness at the expense of deeper learning. Likewise, the Tony Blair Institute for Global Change warned that England’s system relies too heavily on passive instruction and the rote recall of information.
 
-Think tanks have reached similar conclusions. The Social Market Foundation reported in 2024 that curriculum overload leads schools to prioritise exam preparation over deep understanding, while the Tony Blair Institute for Global Change warned that England’s education system relies too heavily on passive learning and memorisation.
-
-Together, these findings suggest that GCSEs increasingly reward recall and exam technique rather than sustained understanding.
+Taken together, this evidence suggests that GCSE assessment increasingly rewards short‑term recall and exam technique rather than the development of durable understanding.
 
 Rote learning is learning by memorizing rather than thinking and reasoning. While useful in some situations, rote learning isn’t the most effective learning process.
 
@@ -204,6 +203,8 @@ Ionas, I. G., Cernusca, D., & Collier, H. L. (2012). Prior knowledge influence o
 Atkinson, R. K., Renkl, A., & Merrill, M. M. (2003). Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked-out steps. Journal of Educational Psychology, 95(4), 774–783. https://doi.org/10.1037/0022-0663.95.4.774
 
 Nesta (2020). The UK finally acts to prevent a lost generation: https://www.nesta.org.uk/feature/ten-predictions-2020/uk-finally-acts-prevent-lost-generation/?utm_source
+
+Tutorsail (2025), GCSEs: Memory Test or True Understanding? https://tutorsail.com/gcses/?utm_source
 
 
 ‌
