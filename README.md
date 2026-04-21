@@ -14,6 +14,8 @@ Asking how and why questions is necessary because these question types elicit ca
 
 These findings suggest that unfamiliarity acts as a trigger for students to engage in more active thinking; the greater diagnostic challenge apparently encourages them to generate more self-explanations, and eventually leads to better learning.20, 26 Even more interesting is the potential contribution of biomedical knowledge to the benefit of SE. Studies looking at the benefits of integrating relevant biomedical knowledge in the process of learning clinical reasoning in novice diagnosticians suggest that it may help students construct more coherent mental representations of diseases, increasing retention in the longer term and helping them to diagnose difficult cases.12, 37, 38 Similarly, self-explanation when used while solving less familiar cases seems to activate students׳ biomedical knowledge, which could in turn help them create new links between biomedical and clinical knowledge and eventually construct a more coherent illness scripts or representation of a disease.
 
+‘The most powerful application of self-explanation may arise after learners have made an initial explanation and then are prompted to revise it when new information highlights gaps or errors.’
+
 # Core Theoretical Frameworks That Align With Hows & Whys
 # 1. Self‑Explanation Theory (Chi, 1989–2000s)
 
@@ -40,9 +42,9 @@ Significant learning gains have been shown in students who are prompted to gener
 
  This has been considered crucial to help medical students developing illness scripts and learning from clinical problems. Since self-explanation is known to support knowledge development and revision of mental representations, it is reasonable to think that, when transposed to clinical problem solving, this technique could help students develop their clinical reasoning.
  
- Chamberland et al. (2011) conducted the first known study examining how self‑explanation (SE) affects medical students’ clinical reasoning. Third‑year students diagnosed clinical cases in both familiar and less familiar topics, either with or without generating self‑explanations (i.e., explaining why their diagnostic hypotheses made sense). SE was brief, minimally guided, and given without feedback.
+Chamberland et al. (2011) conducted the first known study examining how self‑explanation (SE) affects medical students’ clinical reasoning. Third‑year students diagnosed clinical cases in both familiar and less familiar topics, either with or without generating self‑explanations (i.e., explaining why their diagnostic hypotheses made sense). SE was brief, minimally guided, and given without feedback.
 
-One week later, students diagnosed new, more difficult cases in the same topic areas. Those who had used SE showed significantly higher diagnostic performance (71% vs. 55%), but only for cases in less familiar topics. No benefit appeared for familiar conditions.
+One week later, students diagnosed new, more difficult cases in the same topic areas. Those who had used SE showed significantly higher diagnostic performance (71% vs. 55%), but only for cases in less familiar topics. No benefit appeared for familiar conditions. "This suggests that self-explanation is a bridge to better understanding when you are trying to learn unfamiliar material.(Taling Learning Seriouslt, 2021)"
 
 The authors concluded that SE helps students revise and reorganise their knowledge, leading to more coherent mental representations—an effect strongest when students’ existing illness scripts are weak and therefore more open to restructuring. The improvement on delayed, transfer tasks indicates meaningful learning, not short‑term recall.
 Why it aligns:  
@@ -134,4 +136,5 @@ Willoughby, T., & Wood, E. (1994). Elaborative interrogation examined at encodin
 
 Jarrett, C. (2018). Self-explanation is a powerful learning technique, according to meta-analysis of 64 studies involving 6000 participants. [online] BPS. Available at: https://www.bps.org.uk/research-digest/self-explanation-powerful-learning-technique-according-meta-analysis-64-studies.
 
+Bisra, K., Liu, Q., Nesbit, J., Salimi, F. and Winne, P. (2018). Inducing Self-Explanation: a Meta-Analysis. Educational Psychology Review, 30(3), pp.703 – 725.
 ‌
