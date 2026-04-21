@@ -19,7 +19,7 @@ These findings suggest that unfamiliarity acts as a trigger for students to enga
 # Core Theoretical Frameworks That Align With Hows & Whys
 # 1. Self‑Explanation Theory (Chi, 1989–2000s)
 
-The researchers also looked to see if any particular aspects of the practice of self-explanation make a difference to its effectiveness. They found some limited evidence that a multiple-choice format (in which the student chooses a range of explanations from a list) to be the least effective, perhaps because it lacks the self-generated elaboration that is usually involved in more open-ended self-explanation.
+
 
 Self-explanation (SE) is a learning technique in which students explain to themselves pieces of a learning material for the purpose of improving their understanding. "The mechanisms through which self-explanation fosters learning are described. Self-explanation promotes knowledge development and revision of mental representations through elaboration on new information, organisation and integration of new knowledge into existing cognitive structures and monitoring of the learning process." Available studies have demonstrated that students׳ diagnostic performance improves when they use self-explanation while solving clinical problems of a less familiar clinical topic. Unfamiliarity seems to trigger more self-explanations and to stimulate students to reactivate relevant biomedical knowledge, which could lead to the development of more coherent representations of diseases. 
 
@@ -52,7 +52,8 @@ Hows & Whys requires learners to articulate how something works and why it happe
 
 Key link:  
 Self‑explanation improves conceptual understanding, transfer, and error detection — all central to your framework.
-hjh
+The researchers also looked to see if any particular aspects of the practice of self-explanation make a difference to its effectiveness. They found some limited evidence that a multiple-choice format (in which the student chooses a range of explanations from a list) to be the least effective, perhaps because it lacks the self-generated elaboration that is usually involved in more open-ended self-explanation.
+
 # 2. Explanation‑Based Learning (EBL)
 Why it aligns:  
 EBL argues that understanding emerges when learners build explanations that connect mechanisms, causes, and principles.
