@@ -31,6 +31,8 @@ Although both groups showed equal performance on domain-specific knowledge test,
 
 
 Significant learning gains have been shown in students who are prompted to generate explanations as opposed to being provided with an explanation or simply reviewing material (Pressley, McDaniel, Turnure, Wood, & Ahmad, 1987). Researchers hypothesize that elaborate interrogation prompts learners to associate new material with prior knowledge and create new knowledge structures (Willoughby & Wood, 1994). The benefits of self-explanation have been demonstrated across a broad range of content areas, for learners with both high and low abilities (Chi, de Leeuw, Chiu, & LaVancher, 1994), and when used with both direct instruction and discovery learning (Rittle-Johnson, 2006).Self-explanation is an active learning technique of proven effectiveness in other domains which consists of having students explaining to themselves information on to-be-learned materials. 
+
+ This has been considered crucial to help medical students developing illness scripts and learning from clinical problems. Since self-explanation is known to support knowledge development and revision of mental representations, it is reasonable to think that, when transposed to clinical problem solving, this technique could help students develop their clinical reasoning.
 Why it aligns:  
 Hows & Whys requires learners to articulate how something works and why it happens. This is exactly what self‑explanation theory describes: learners generate explanations that reveal causal and mechanistic understanding.
 
