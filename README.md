@@ -68,7 +68,6 @@ Self-explanation (SE) is a learning technique in which students explain to thems
 Self-explanation is thought to support schema construction, which can lead to reduced intrinsic load during independent problem solving, due to information becoming ‘chunked’ (Joo et al., 2020). When solving problems, students are prone to memorising steps without necessarily understanding the purpose of each step (Siegler, 2002). Self-explanation encourages them to generate inferences about steps, which facilitates understanding of the principles involved in solving the problem (R. K. Atkinson et al., 2003). There is some evidence that higher performing students often use, and benefit from, self-explanation instinctively (Ionas et al., 2012), suggesting that encouraging self-explanation may particularly benefit lower performing students.
 
 
-
  “the acquisition of new knowledge requires the students to be actively involved in the construction of their own knowledge”.
  Self-explanation is a powerful learning strategy because learners “generate inferences about causal connections and conceptual relationships that enhance understanding”. The authors of the meta-analysis, published recently in Educational Psychology Review, say that self-explanation is a powerful learning strategy because learners "generate inferences about causal connections and conceptual relationships that enhance understanding". The process of self-explanation also helps the learner realise what they don't know, "to fill in missing information, monitor understanding, and modify fusions of new information with prior knowledge when discrepancies or deficiencies are detected".
 
@@ -103,14 +102,6 @@ Key link:
 Self‑explanation improves conceptual understanding, transfer, and error detection — all central to your framework.
 The researchers also looked to see if any particular aspects of the practice of self-explanation make a difference to its effectiveness. They found some limited evidence that a multiple-choice format (in which the student chooses a range of explanations from a list) to be the least effective, perhaps because it lacks the self-generated elaboration that is usually involved in more open-ended self-explanation.
 
-# 2. Explanation‑Based Learning (EBL)
-Why it aligns:  
-EBL argues that understanding emerges when learners build explanations that connect mechanisms, causes, and principles.
-Hows & Whys is essentially a structured EBL engine applied to curriculum concepts.
-
-Key link:  
-EBL emphasises generalisation — the same goal as your “concept transfer” layer.
-
 # 3. Elaborative Interrogation
 Why it aligns:  
 This theory focuses on asking “Why is this true?” to deepen memory and reasoning.
@@ -120,9 +111,7 @@ Key link:
 Elaborative interrogation is one of the most evidence‑backed strategies for conceptual retention.
 
 # 4. Causal Reasoning Theory
-Why it aligns:  
-Hows & Whys is fundamentally a causal‑mechanistic reasoning model.
-Causal reasoning theory explains how learners build mental models of cause–effect relationships.
+"Causal reasoning belongs to our most central cognitive competencies. Causal knowledge is used as the basis of predictions and diagnoses, categorization, action planning, decision making and problem solving" Waldmann and Hagmayer (2013)
 
 Key link:  
 Your “why” dimension directly maps to causal inference and causal model construction.
@@ -144,8 +133,7 @@ Your framework’s goal of “deep structure understanding” is a schema‑buil
 
 # 7. Constructivism (Piaget, Vygotsky)
 Why it aligns:  
-Constructivism holds that learners build knowledge through active reasoning, not passive recall.
-Hows & Whys is a constructivist reasoning model disguised as a curriculum tool.
+Constructivism is a prominent theory of learning that emphasizes the idea that knowledge is actively constructed by individuals rather than passively received. This theory has gained considerable attention in educational literature, leading to various interpretations and definitions, which some scholars argue have diluted its meaning. Central to constructivism are two main strands: cognitive constructivism, pioneered by Jean Piaget, and social constructivism, developed by Lev Vygotsky. Piaget's work focuses on how learners adapt their cognitive structures through processes like assimilation and accommodation in response to new experiences, while Vygotsky emphasizes the critical role of social interaction and cultural context in knowledge construction, introducing concepts such as the Zone of Proximal Development.
 
 Key link:  
 Your framework emphasises explanation, reflection, and conceptual construction.
@@ -207,6 +195,8 @@ Atkinson, R. K., Renkl, A., & Merrill, M. M. (2003). Transitioning from studying
 Nesta (2020). The UK finally acts to prevent a lost generation: https://www.nesta.org.uk/feature/ten-predictions-2020/uk-finally-acts-prevent-lost-generation/?utm_source
 
 Tutorsail (2025), GCSEs: Memory Test or True Understanding? https://tutorsail.com/gcses/?utm_source
+
+Waldmann, M. R., & Hagmayer, Y. (2013). Causal reasoning. In D. Reisberg (Ed.), Oxford Handbook of Cognitive Psychology (pp. 733–752). Oxford University Press.
 
 
 ‌
