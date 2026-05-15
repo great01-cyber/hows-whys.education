@@ -135,15 +135,38 @@ Elaborative interrogation is one of the most evidence‑backed strategies for co
 Key link:  
 Your “why” dimension directly maps to causal inference and causal model construction.
 
-# 5. Mechanistic Reasoning (Russ, 2008; Hmelo‑Silver, 2000s)
+# 5. Mechanistic Reasoning (Russ, 2008; Hmelo‑Silver, 2000s) (Rayendra Wahyu Bachtiar, Rfg Ralph Meulenbroeks and Wouter van Joolingen, 2022)
 Why it aligns:
-One of the  primary goals of  science education is to invite  students  to  act  as  scientists  trying  to  provide scientific  explanations  of  natural  phenomena  (NGSS Lead  States,  2013;  National  Research  Council,  2012). Scientific explanations can be based on different kinds of reasoning.  For example,  abductive  reasoning  refers  to “an  inferential  process  in  the  sense  that  it  involves reasoning  used  to  mentally  derive  causal  claims  (i.e., hypotheses/theories) from premises” (Lawson, 2010, p. 338).  Hypothetical-deductive  reasoning  relies  on generating  plausible  predictions  (hypotheses)  for  an observed phenomenon, followed by an investigation to test  the  predictions  (Ding,  2018).  One  form  of  causal reasoning which is often considered essential for science education is mechanistic reasoning (MR), the subject of our study (Krist et al., 2019; Robertson & Shaffer, 2016; Russ et al., 2008; Talanquer, 2018; van Mil et al., 2013).
+
+(Rayendra Wahyu Bachtiar, Rfg Ralph Meulenbroeks and Wouter van Joolingen, 2022) pionts out that, One of the  primary goals of  science education is to invite  students  to  act  as  scientists  trying  to  provide scientific  explanations  of  natural  phenomena  (NGSS Lead  States,  2013;  National  Research  Council,  2012). Scientific explanations can be based on different kinds of reasoning.  For example,  abductive  reasoning  refers  to “an  inferential  process  in  the  sense  that  it  involves reasoning  used  to  mentally  derive  causal  claims  (i.e., hypotheses/theories) from premises” (Lawson, 2010, p. 338).  Hypothetical-deductive  reasoning  relies  on generating  plausible  predictions  (hypotheses)  for  an observed phenomenon, followed by an investigation to test  the  predictions  (Ding,  2018).  One  form  of  causal reasoning which is often considered essential for science education is mechanistic reasoning (MR), the subject of our study (Krist et al., 2019; Robertson & Shaffer, 2016; Russ et al., 2008; Talanquer, 2018; van Mil et al., 2013).
+MR requires reducing a phenomenon to the behavior of (in)visible entities that interact with each other (Russ et  al.,  2008;  Talanquer,  2018).  Consider  the  way  two students, A and B, reason about the change in pressure of an ideal gas: 
 Mechanistic reasoning describes how learners understand systems by identifying entities, activities, and interactions — essentially answering How does this work?
+Student A: When the temperature rises, pressure increases.  Student  B: When  the  temperature rises,  the  gas particles  will  have  higher  speeds;  therefore, collisions  between  particles  and  the  wall  will become more  forceful and  frequent, resulting  in an increase in pressure. Both  students  link  a  cause  to an  effect.  Whereas student  A  only  mentions  this  link,  student  B’s explanation  additionally  includes  a  mechanism underlying  this  causality.  This  mechanism  illustrates how a change in temperature affects the pressure and is described  in  the  form  of  entities  (gas  particles)  and activities  of those  entities  (collisions); in  this  case,  the entities  are  not  visible  on  the  scale  level  of  the phenomenon (i.e., the rise in pressure). Thus, student B’s reasoning is called MR. 
+
+1. describing the target phenomenon,  2. identifying setup conditions,  3. identifying entities,  4. identifying activities,  5. identifying properties of entities,  6. identifying organization of entities, and 7. chaining; see Russ et al. (2008) on page 512-513 for the full descriptions.  
+
+Among these 30 studies, three use the term causal MR to emphasize that explaining why and  how  a chemical reaction  occurs  requires  involving  both  causal  and mechanistic aspects (Cooper et al., 2016; Crandell et al., 2019, 2020). 
+
+Nine studies in category 3 stated that MR was needed to  explain  a  molecular  mechanism  underlying  a phenomenon. For example, MR was necessary to explain an  underlying  molecular  mechanisms  of  biological phenomena  (Southard  et  al.,  2016),  to  explain  and predict the outcome  of chemical  reactions (Houchlei  et al., 2021), and to understand the process by which kinetic energy becomes thermal energy in an adiabatic process (Scherr & Robertson, 2015).
+
+<img width="630" height="298" alt="Screenshot 2026-05-15 at 17 15 16" src="https://github.com/user-attachments/assets/d66732a3-e375-4019-808d-8357dac352f2" />
+
+MR bears great similarities  to the  way in  which actual scientists explain a phenomenon.
+
+Three studies assigned to category 5 showed that MR was valuable  when applied  to an assessment criterion. For example, Russ and Hutchison (2006) demonstrated a student  who  provides  incorrect  explanations  (but mechanistic)  for  the  phenomenon  of  why  a  juice  box caved  in when  sucking  on the  straw,  that  is  (without considering the role of the air outside) “when the air that was pushing out on the box from the inside is removed, the box collapses” (p. 645).  Russ and Hutchison (2006)  showed that if assessing the  quality  of  students’  inquiry  was  based  on correctness, this student’s inquiry was of no value at all because  the  student  lacked  understanding  of  air pressure.  However,  in  terms  of  MR,  the  student’s explanation  can  be  attributed  some  merit,  as  the student’s  explanations  involve an  entity (air  pressure) and  an activity  (pushing  out),  and even  chaining as  a high level of MR.
+
 
 Key link:  
 Your “how” dimension is a structured form of mechanistic reasoning.
 
 # 6. Schema Theory (Rumelhart, 1980s)
+Schema Theory proposes that learners store knowledge in organised mental structures called schemas. These schemas help pupils interpret new information, make sense of complex ideas, and remember concepts more effectively. Learning occurs when new information is either fitted into an existing schema (assimilation) or when the schema itself is reorganised to accommodate new understanding. In this sense, schemas are not static; they grow stronger and more sophisticated through meaningful cognitive activity.
+
+The Hows & Whys Framework aligns naturally with this process because it requires pupils to engage in mechanistic (“how”) and causal (“why”) reasoning. When a pupil explains how something works, they build a mechanistic schema—a structured mental model of processes and relationships. When they explain why something happens, they construct a causal schema, which links ideas through reasoning and cause–effect logic. Both forms of reasoning force learners to activate prior knowledge, connect ideas, and reorganise their understanding—exactly the processes described in Schema Theory.
+
+Furthermore, the framework reduces cognitive load by helping pupils chunk information into coherent structures rather than isolated facts. It also supports conceptual change: when pupils cannot answer a “why” question with their current schema, they are pushed to revise or rebuild it. In this way, the Hows & Whys Framework acts as a schema‑building engine, transforming fragmented knowledge into deep, transferable understanding.
+
+Ultimately, Schema Theory explains why the Hows & Whys Framework is effective: it strengthens the mental structures that underpin comprehension, memory, and problem‑solving. The framework does not simply help pupils recall information; it helps them build the cognitive architecture that makes future learning easier, faster, and more meaningful.
 Why it aligns:  
 Hows & Whys builds conceptual schemas by connecting mechanisms (how) and principles (why).
 Schema theory explains how these structured knowledge networks support transfer.
@@ -153,7 +176,43 @@ Your framework’s goal of “deep structure understanding” is a schema‑buil
 
 # 7. Constructivism (Piaget, Vygotsky)
 Why it aligns:  
-Constructivism is a prominent theory of learning that emphasizes the idea that knowledge is actively constructed by individuals rather than passively received. This theory has gained considerable attention in educational literature, leading to various interpretations and definitions, which some scholars argue have diluted its meaning. Central to constructivism are two main strands: cognitive constructivism, pioneered by Jean Piaget, and social constructivism, developed by Lev Vygotsky. Piaget's work focuses on how learners adapt their cognitive structures through processes like assimilation and accommodation in response to new experiences, while Vygotsky emphasizes the critical role of social interaction and cultural context in knowledge construction, introducing concepts such as the Zone of Proximal Development.
+Constructed Knowledge as the Foundation of Inquiry
+Constructivism posits that students enter learning situations with previously developed ideas, understandings, and cultural assets. These pre-existing mental models serve as the vital foundation upon which all new knowledge is generated. When a curriculum prioritizes simple memorization, it ignores this internal landscape, forcing students to store data in superficial, disconnected cognitive pockets.
+
+The "Hows and Whys" framework directly interfaces with this pre-existing architecture. By demanding that students investigate why a phenomenon occurs before a formal explanation is delivered, the framework unearths and evaluates their existing assumptions. New concepts are not merely handed to the learner; instead, they are intentionally anchored into, or built upon, the student’s established cognitive foundation, ensuring authentic integration rather than temporary retention.
+
+2. Active Learning and the Shift from Consumer to Creator
+In an active constructivist environment, the student is the primary driver of understanding, while the educator transitions from a central authority to a coach, moderator, and facilitator. This environment destigmatizes failure, viewing it instead as an essential, experimental data point within the learning process.
+
+Answering how a system functions inherently requires mental or physical manipulation, making passive listening impossible. Under the "Hows and Whys" framework, the teacher resists the urge to give away the mechanism. Instead, students must actively experiment, test variables, and build simulations to discover how components interact. When an attempt fails, the framework treats the error not as a dead end, but as an active inquiry prompt:
+
+"Why did this variable cause the system to fail, and how must we adapt our method to achieve equilibrium?"
+
+3. Reflective Metacognition of the Process
+Reflection is the cognitive bridge where the transition from "knowing a fact" to "comprehending a system" takes place. Constructivism emphasizes that by taking the initiative to reflect deeply on their learning experiences, students gradually transform into self-directed experts in their own educational journeys.
+
+Within a "Hows and Whys" curriculum, an instructional unit never terminates simply because a student arrives at a correct answer. The culmination of the lesson relies on deliberate reflection regarding the methodology used. Students are prompted to evaluate how they arrived at their conclusions and why their initial hypotheses altered over time. This explicit focus on process over product fosters metacognition, teaching students to analyze their own thinking habits and take ownership of their intellectual growth.
+
+   [Prior Knowledge] ──> [Active Inquiry] ──> [Cognitive Dissonance/Error]
+          ▲                                             │
+          │                                             ▼
+   [Deep Comprehension] <── [Collaborative Debate] <── [Metacognitive Reflection]
+4. Collaborative Discourse and Social Constructivism
+The constructivist classroom relies heavily on social interaction, recognizing that students learn about learning not only through internal reflection but also by observing and interacting with their peers. Collective review allows individuals to absorb novel strategies, techniques, and viewpoints that they might not have generated independently.
+
+Explaining the intricate how and why of a complex concept to oneself is challenging; articulating it to a peer is transformative. When students collaborate within a "Hows and Whys" ecosystem, they are forced to negotiate meaning. One student may intuitively grasp the technical mechanics (the how), while another understands the systemic rationale or purpose (the why). Through dialogue, debate, and the co-construction of explanations, peer groups identify and mend gaps in their collective understanding, mirroring the collaborative nature of real-world scientific and academic research.
+
+5. Inquiry-Based Exploration as the Instructional Engine
+Problem-solving forms the primary focus of constructivist instruction. Students utilize targeted inquiry techniques to pose questions, investigate systemic issues, and draw conclusions that they consistently revisit and refine as their investigations deepen.
+
+"How" and "Why" are, by their very nature, the fundamental root words of human inquiry. Unlike "What" questions, which typically yield binary, close-ended answers, "How" and "Why" function as perpetual engines for discovery. In this framework, a lesson is structured around an overarching systemic mystery or problem rather than a static chapter in a textbook. As students investigate the underlying mechanics of a topic, answering one conceptual question invariably uncovers a succession of new inquiries, creating a self-sustaining cycle of student-led curiosity.
+
+6. Evolving Theories and the Value of Misconceptions
+Finally, Constructivism recognizes that learning is an iterative, evolutionary process. Students frequently develop temporary theories that they later realize are insufficient or incorrect when confronted with new evidence. These misconceptions are not regarded as academic failures, but rather as necessary stepping stones toward cognitive refinement.
+
+When a student operating under a rigid "What-centric" curriculum holds an incorrect belief—such as assuming all trees must shed their leaves in autumn—a traditional response simply corrects the fact: "That is incorrect; evergreens do not." Conversely, the "Hows and Whys" framework leverages this misconception to spark cognitive evolution. The educator asks:
+
+"Why do you think these specific trees manage to retain their foliage when others cannot? How does their physical structure protect them from the winter climate?" By addressing the underlying structural reasons, the framework allows the student's mental model to evolve naturally and permanently, converting a mistake into a profound moment of insight.
 
 Key link:  
 Your framework emphasises explanation, reflection, and conceptual construction.
@@ -166,6 +225,33 @@ Key link:
 Metacognition is essential for improving explanation quality and conceptual clarity.
 
 # 9. The 5E Instructional Model (Engage, Explore, Explain, Elaborate, Evaluate)
+Modern educational theory emphasizes shifting classrooms away from the passive acquisition of disconnected facts toward deep, conceptual understanding and active inquiry. To achieve this, educators require both a macro-structural timeline to pace learning and a micro-cognitive driver to stimulate critical thinking. While the 5E Model of Instruction provides an empirically supported, multi-week framework for sequencing student experiences, it achieves its highest pedagogical potential when infused with the "Hows and Whys" framework. By blending the structured progression of the 5E model with the targeted inquiry of the "Hows and Whys" methodology, educators can systematically guide students past the surface level of mechanical memorization and into the deeper domains of causal explanation and functional transfer.The Macro-Timeline and the Micro-DriverThe 5E Model of Instruction—comprising Engage, Explore, Explain, Elaborate, and Evaluate—is optimized when implemented as a cohesive instructional arc spanning two to three weeks. Research confirms that compressing the model into a single lesson period severely compromises its efficacy, as deep conceptual shifts require sustained time and iterative experience. Furthermore, the instructional sequence must remain intact; introducing formal explanations before students have had a chance to explore a phenomenon disrupts the natural construction of knowledge.However, a structural timeline alone does not guarantee intellectual rigor. A student can navigate a multi-week sequence and still focus entirely on the surface-level attributes of a topic—the "What." This is where the "Hows and Whys" framework serves as an essential cognitive driver. While the 5E sequence governs when certain learning actions take place, the "Hows and Whys" framework dictates how students process those experiences. It shifts the learning focus from arbitrary definitions to operational mechanisms (the "How") and underlying causal principles (the "Why").Operationalizing the Integrated FrameworkIntegrating these two methodologies requires embedding specific inquiry markers into each phase of the instructional cycle. This ensures that every step of the journey pushes students away from rote compliance and toward scientific inquiry.                  ┌────────────────────────────────────────┐
+                  │          1. ENGAGE                     │
+                  │  Disrupt the "What" to spark inquiry   │
+                  └───────────────────┬────────────────────┘
+                                      ▼
+                  ┌────────────────────────────────────────┐
+                  │          2. EXPLORE                    │
+                  │  Investigate the "How" (Mechanisms)    │
+                  └───────────────────┬────────────────────┘
+                                      ▼ ▲
+                                 Loop as Needed
+                                      ▼ │
+                  ┌────────────────────────────────────────┐
+                  │          3. EXPLAIN                    │
+                  │  Uncover the "Why" (Causal Principles) │
+                  └───────────────────┬────────────────────┘
+                                      ▼
+                  ┌────────────────────────────────────────┐
+                  │          4. ELABORATE                  │
+                  │  Transfer "How & Why" to New Contexts   │
+                  └───────────────────┬────────────────────┘
+                                      ▼
+                  ┌────────────────────────────────────────┐
+                  │          5. EVALUATE                   │
+                  │  Assess Deep Comprehension over Recall │
+                  └────────────────────────────────────────┘
+Engage: Disrupting the "What"The instructional arc begins by presenting students with an anchor phenomenon or design problem. In an integrated approach, the chosen scenario must feature a readily observable outcome (the "What") driven by an invisible, non-obvious underlying process. Rather than introducing a unit by defining terms on a whiteboard, the educator presents a cognitive paradox. For instance, in a unit concerning thermal energy transfer, students might observe that ice melts significantly faster on a block of metal than on a block of plastic, despite both materials being at identical room temperatures. The instructional prompt intentionally bypasses vocabulary retention, asking instead: "We can see what is happening, but how is this occurring if both blocks are at the same temperature, and why does the specific material alter the outcome?" This initial disruption transforms passive observation into active puzzle-solving.Explore: Investigating the "How"Once curiosity is piqued, students move into the Explore phase, a hands-on, student-led investigation where they utilize Science and Engineering Practices to gather data, test variables, and map out systems. Within this phase, the "Hows and Whys" framework concentrates student focus strictly on operational mechanisms—the "How." Students document observable patterns and interactions without the pressure of formal nomenclature. They investigate questions such as: "How does altering variable $X$ impact the behavior of component $Y$?" By focusing purely on the mechanics of the system, students build the necessary concrete, experiential mental models required to support complex abstract theory later.Explain: Uncovering the "Why"After students have thoroughly mapped out the observable mechanics of a phenomenon, the learning sequence transitions to the Explain phase. Here, the educator introduces formal terminology, core disciplinary ideas, and crosscutting concepts to address the underlying causation—the "Why." The integrated approach shines in this phase by explicitly connecting the student's observational data to foundational scientific truths. The narrative shifts from observation to justification: "You have discovered how the system behaves under different conditions; now let us look at the molecular structural differences to understand why it must behave that way." This sequence ensures that vocabulary acts as a tool for explaining an observed reality, rather than an abstract concept to be memorized in a vacuum.Elaborate: Transferring Core PrinciplesTrue comprehension is demonstrated not by a student's ability to repeat an explanation, but by their capacity to transfer that knowledge to an entirely new, unstudied scenario. In the Elaborate phase, students are challenged to apply their newly synthesized understanding of a specific mechanism and its cause to a novel context or an engineering design problem. For example, students might be asked to use their understanding of the "hows and whys" of thermal energy transfer to design a prototype for an insulated food delivery container. If their foundational understanding is robust, they will be able to accurately predict system behaviors and justify their engineering choices using the core concepts established in the prior phases.Evaluate: Assessing Deep ComprehensionThe final phase, Evaluate, completes the integration by aligning assessment strategies with the goals of deep inquiry. Traditional assessments frequently rely on binary, recollection-based questioning, such as asking for the literal definition of a term. An integrated model replaces these metrics with criteria focused on articulation and mechanistic reasoning. Instead of checking if a student can recall a term, the assessment demands that the student explain a specific process and justify its cause. Success is measured by how clearly a student can articulate the functional mechanisms and underlying reasons behind a system's behavior.The Iterative Explore-Explain LoopA critical element of the 5E Model is its capacity for micro-looping, particularly between the Explore and Explain phases. Complex scientific principles are rarely mastered in a single linear pass. When integrated with the "Hows and Whys" framework, this looping mechanism functions as a dynamic diagnostic tool.$$\text{Engage} \longrightarrow \left[ \text{Explore (Mechanisms)} \rightleftharpoons \text{Explain (Causation)} \right] \longrightarrow \text{Elaborate} \longrightarrow \text{Evaluate}$$If a student struggles to articulate the "Why" during a formative check in the Explain phase, it almost always indicates a gap or misconception in their mental model of the "How." Rather than attempting to fix this misunderstanding through additional lecturing, the educator utilizes the loop to send students back to a targeted Explore activity. The student re-examines the physical mechanisms, refines their observational data, and returns to the Explain phase with the experiential foundation required to comprehend the underlying theory.
 Why it aligns:  
 Your framework fits the “Explain → Elaborate → Evaluate” phases perfectly.
 
@@ -175,6 +261,27 @@ Hows & Whys can be positioned as a micro‑cycle inside the 5E model.
 # 10. Knowledge‑in‑Pieces / Conceptual Change Theory (diSessa, Vosniadou)
 Why it aligns:  
 Your framework helps reorganise fragmented student ideas into coherent causal‑mechanistic structures.
+A persistent challenge in primary and secondary education is the tendency of instructional models to favor rote memorization over deep, conceptual comprehension. To shift this paradigm, educational technology must move beyond traditional "correct versus incorrect" binary assessments and instead engage with the actual cognitive architecture of the learner. The proposed "Hows and Whys" Framework offers a robust solution to this challenge by systematically guiding students past surface-level facts into deep structural mechanisms. However, to maximize its efficacy, this framework requires a rigorous cognitive foundation. Andrea diSessa’s Knowledge-in-Pieces (KiP) theory provides the ideal theoretical engine for this framework, transforming the "Hows and Whys" from an instructional strategy into a precise tool for cognitive reorganization.
+
+Rethinking the Learner’s Mind: Intuitive "Whys" as Cognitive Building Blocks
+Traditional educational models often view a student's incorrect scientific ideas as entrenched, coherent "misconceptions" that must be systematically dismantled or erased. KiP radically challenges this view, arguing that a novice's knowledge is not a cohesive, alternative theory, but rather a fragmented ecology of small, intuitive, and highly context-bound elements called phenomenological primitives (p-prims). P-prims—such as the belief that "closer means stronger" or "continuous push requires continuous force"—are derived directly from everyday physical experiences. They are not inherently "wrong"; rather, they are cognitive tools that work perfectly in everyday scenarios (like feeling heat near a fireplace) but fail when misapplied to complex scientific phenomena (like explaining the Earth's seasons).
+
+By anchoring the "Hows and Whys" Framework in KiP theory, the initial "Why" phase of a lesson shifts from an assessment of factual correctness to a diagnostic tool for p-prim activation. Instead of asking abstract, textbook questions, the framework can utilize highly contextual, everyday scenarios designed to intentionally trigger a student’s intuitive mental models. For example, asking why a heavy box stops moving the moment a person stops pushing it surfaces the implicit p-prim that motion requires a continuous force. By capturing this surface-level "Why," the framework treats the student’s current intuition not as a hurdle to overcome, but as the essential raw material for subsequent inquiry.
+
+Exposing Contextuality and Driving Cognitive Dissonance
+A defining characteristic of novice knowledge within the KiP framework is its extreme context-dependence, a state often characterized by a lack of cross-contextual coordination. A student may apply an intuitive piece of knowledge to one scenario but completely fail to activate it in a structurally identical situation that features different surface characteristics. To bridge this gap, the "Hows and Whys" Framework can introduce a deliberate "stress-test" or variation module.
+
+Once a student articulates their intuitive "Why" for an initial phenomenon, the framework should immediately present a comparative context that features identical structural physics but entirely different surface cues. For instance, after a student attributes the stopping of a pushed box to the absence of a continuous push, the framework can present a scenario involving a spacecraft moving indefinitely through the vacuum of space without engine thrust. This sudden shift in context creates productive cognitive dissonance. It forces the learner to confront the fragility of their fragmented intuition, exposing the reality that their intuitive "Why" is insufficient to explain the universal physical laws at play.
+
+The Structural "How" as System Reorganization
+In the KiP paradigm, conceptual change is achieved not by replacing or deleting a student’s intuitive pieces of knowledge, but by reorganizing them. Because p-prims are rooted in genuine physical experiences, they cannot simply be unlearned. Instead, expertise is developed by teaching the cognitive network when and where to activate specific pieces of knowledge, eventually subordinating these intuitions to formal scientific principles.
+
+This is where the "How" component of the framework becomes transformative. Rather than functioning as a passive delivery system for correct answers, the "How" serves as the connective tissue that helps students domesticate and restructure their intuitive pieces. In the case of the pushed box and the spacecraft, the framework guides the student to realize that their intuition (push equals motion) is actually a misinterpretation of an invisible environmental variable: friction. The formal "How" introduces the overarching principle of inertia and net forces, allowing the student to see that both the box and the spacecraft follow the exact same physical law. Through this process, the intuitive piece of knowledge is not destroyed; it is properly scoped and integrated into a larger, correct scientific framework.
+
+Conclusion: Cultivating Coordination Classes
+Ultimately, the goal of integrating Knowledge-in-Pieces theory into the "Hows and Whys" Framework is to systematically transition students from novice thinkers to expert conceptualizers. In diSessa’s terms, an expert is someone who possesses a highly integrated network of knowledge, known as a coordination class, which allows them to reliably read deep structural information across vastly diverse contexts.
+
+By utilizing the "Why" to surface intuitive p-prims, varying contexts to expose their limitations, and leveraging the "How" to drive systemic reorganization, this pedagogical tool avoids the trap of treating education as the mere filling of an empty vessel. Instead, it positions the "Hows and Whys" Framework as an active, intellectual sorting mechanism. It honors the validity of a student's lived experiences while giving them the cognitive infrastructure necessary to assemble those fragmented pieces of experience into rigorous, universal, and enduring scientific understanding.
 
 Key link:  
 Hows & Whys supports conceptual change by forcing learners to reconcile misconceptions through explanation.
@@ -223,6 +330,17 @@ Waldmann, M. R., & Hagmayer, Y. (2013). Causal reasoning. In D. Reisberg (Ed.), 
 Kahl, B. L., & Woloshyn, V. E. (1994). Using elaborative interrogation to facilitate acquisition of factual   information in cooperative learning settings: One good strategy deserves another. Applied Cognitive     Psychology, 8, 465-478.
 
 Killian, O.T.P., Ahmad, D.A. and Adu, E.O. (2024). Chapter 20: Using elaborative interrogation in classroom settings. Open Books and Proceedings, pp.147–155. doi:https://doi.org/10.38140/obp1-2024-20.
+
+NGSS  Lead  States.  (2013).  Next  generation  science standards: For states, by states.  National Academies Press.  http://www.nextgenscience.org/get-to-know 
+
+National Research Council. (2012). A framework for K-12 science education: Practices, crosscutting concepts, and core ideas. National Academies Press.
+
+Lawson,  A. E.  (2010).  Basic  inferences  of  scientific reasoning,  argumentation,  and  discovery.  Science Education, 94(2), 336-364.
+
+Ding, L. (2018). Progression trend of scientific reasoning from elementary school to university: A large-scale cross-grade  survey  among  Chinese  students. International  Journal  of  Science  and  Mathematics Education,  16(8),  1479-1498.  https://doi-org/ 10.1007/s10763-017-9844-0 
+
+Krist, C., Schwarz, C. V., & Reiser, B. J. (2019). Identifying essential  epistemic  heuristics  for  guiding mechanistic reasoning in science learning. Journal of the  Learning  Sciences,  28(2),  160-205. https://doi.org/10.1080/10508406.2018.1510404 
+
 
 
 ‌
