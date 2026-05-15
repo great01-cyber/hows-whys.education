@@ -1,25 +1,12 @@
-# What the hows-whys educational app is about./
-Hows & Whys is a curriculum‑aligned, reasoning‑focused educational platform designed to strengthen students’ conceptual understanding across subjects in the UK curriculum. The system addresses a well‑documented gap in contemporary schooling: students often demonstrate factual recall but struggle to articulate coherent explanations of how and why phenomena occur. This limitation affects attainment, transfer of knowledge, and long‑term retention.
-
-The platform operationalises principles from cognitive science, including elaborative interrogation, causal reasoning, metacognitive reflection, and schema construction. Students engage with subject‑specific prompts that require them to explain processes, mechanisms, and causal relationships rather than reproduce memorised definitions. Explanations may be submitted through written responses or audio recordings.
-
-A built‑in reasoning‑analysis engine evaluates student explanations using dimensions such as conceptual accuracy, causal coherence, completeness, and misconception patterns. The system generates structured, formative feedback that guides students toward deeper understanding. Teachers access a dashboard that aggregates reasoning data, highlights common misconceptions, and supports targeted reteaching and intervention.
-
-Importantly, the platform is designed for individual use outside the classroom, mirroring the operational model of established UK EdTech systems such as Seneca, Sparx, Century, Quizizz, and Tassomai. Teachers assign tasks; students complete them independently on personal devices; and the platform provides analytics that inform instructional decision‑making. This model avoids classroom noise constraints, reduces teacher workload, and enables scalable adoption.
-
-Overall, Hows & Whys functions as a reasoning‑first learning environment that complements existing curriculum delivery, enhances students’ explanatory competence, and provides educators with actionable insights into conceptual understanding.
-
-Asking how and why questions is necessary because these question types elicit causal reasoning, mechanistic explanation, and metacognitive reflection—core components of deep learning. They reveal misconceptions that traditional assessments cannot detect, promote the construction of coherent conceptual schemas, and support the transfer of knowledge to new contexts. Cognitive‑science research demonstrates that explanation‑based tasks strengthen long‑term retention through elaborative interrogation and self‑explanation. Within the UK curriculum, which emphasises reasoning, justification, and conceptual understanding, how and why questions provide a valid and reliable method for assessing the depth of student understanding rather than surface‑level recall.
-
 # Why I am building the hows-whys educational app.
 
-Concerns about rote learning are strongly supported by recent evidence.
+Concerns about rote learning are strongly supported by recent evidence, especially in the UK.
 
 Rote learning is commonly defined as the mechanical memorisation of information without attention to meaning or application (Mushtaq, 2025). While such memorisation can support rapid recall during examinations, a growing body of research demonstrates that it contributes little to the development of higher‑order thinking (Mushtaq, 2025). Cognitive psychology further shows that an overreliance on factual recall limits students’ capacity to analyse, synthesise, and evaluate information — abilities that underpin genuine conceptual understanding (Westbury & Wilensky, n.d.).
 
 In the UK, this challenge is intensified by a high‑stakes, exam‑driven educational culture. Both teachers and pupils often feel compelled to prioritise test performance, resulting in instructional practices that favour memorisation over meaningful learning. As Mushtaq (2025) observes, “The very structures intended to assess knowledge ironically perpetuate a limited instructional focus that impedes intellectual growth.” This limitation becomes even more consequential when viewed alongside wider educational expectations. As Nesta argues, young people today require far more than the ability to recall information or accumulate qualifications. They must be able to generate creative solutions to complex problems, collaborate effectively both online and offline, and develop the resilience needed for lifelong learning. In this context, an overreliance on rote memorisation not only narrows instructional practice but also leaves students ill‑equipped for the cognitive, social, and adaptive demands of modern life.
 
-According to Nesta "The UK, however, is failing to prioritise the range of skills young people need. Instead, it is a global leader in rote learning and teaching for memorisation". Among the world’s education systems, the UK has become an anomaly and is falling behind the rest of the world. Research recently presented by the OECD shows that the UK’s students ‘learn by heart’ the third most of all OECD countries.
+According to Nesta "The UK is failing to prioritise the range of skills young people need. Instead, it is a global leader in rote learning and teaching for memorisation". Among the world’s education systems, the UK has become an anomaly and is falling behind the rest of the world. Research recently presented by the OECD shows that the UK’s students ‘learn by heart’ the third most of all OECD countries (Nesta 2025).
 
 A 2023 inquiry by the House of Commons Education Committee reported that the curriculum for pupils aged 11–16 had become disproportionately weighted toward factual content, resulting in narrow pedagogical approaches and an excessive emphasis on examinations. The committee noted that this shift had marginalised essential capabilities such as creativity, problem‑solving, and independent thought — particularly in the run‑up to GCSEs (Tutorsail, 2025).
 
@@ -29,7 +16,7 @@ Independent policy organisations have echoed these findings. In 2024, the Social
 
 Taken together, this evidence suggests that GCSE assessment increasingly rewards short‑term recall and exam technique rather than the development of durable understanding (Tutorsail, 2025).
 
-Pratima Yadav (2025) further identifies several negative consequences of rote learning:
+Pratima Yadav (2025) brillantly further identifies several negative consequences of rote learning:
 
 #### No connection between previous and new knowledge
 
@@ -59,6 +46,36 @@ Pratima Yadav (2025) further identifies several negative consequences of rote le
 
 #### Doesn't challenge the brain
 
+Hence, the need is intervention is expedient.
+
+# Introducing the "Hows and Whys" Framework: A Paradigm Shift in Learning
+
+To intervene against the cognitive limitations of mechanical memorisation, this paper proposes the Hows and Whys Framework—a pedagogical model explicitly designed to cultivate high-order reasoning and adaptive expertise. Rather than treating knowledge as a collection of static, isolated facts to be "learned by heart," this framework treats knowledge as a dynamic network of mechanisms and foundational principles. The framework operates by systematically shifting classroom inquiry away from the traditional, low-level question of "What?" (factual recall) and redirecting cognitive focus toward two distinct dimensions of reasoning: Structural Mechanics (The How) and First-Principles Logic (The Why).
+
+#  1. Structural Mechanics ("The How")
+The first tier of the framework addresses Yadav’s (2025) observation that rote learning isolates new information from previous knowledge and stunts problem-solving. "The How" demands that students explicitly map out the processes, workflows, and causal pathways of a given concept.
+
+By deconstructing a phenomenon into its operational steps, reasoning is externalised. Students move from passively accepting that a rule or event occurs to actively analyzing the system that drives it. This stage builds a structural mental model, transforming a disjointed memory load into a coherent, logical sequence.
+
+#  2. First-Principles Logic ("The Why")
+The second tier directly challenges the culture of convergent thinking and short-term exam orientation. "The Why" forces an interrogation of the underlying rationale, historical necessity, or foundational laws governing a concept. Students are guided to strip a topic down to its most basic, indisputable truths and reconstruct conclusions from there.
+
+Understanding the why acts as an anchor for long-term retention; if a student comprehends the root purpose or derivation of a principle, they no longer depend on rigid mnemonic devices to reproduce it. It transforms them from passive followers of a method into thinkers who understand its boundary conditions.
+
+
+# What the hows-whys educational app is about.
+
+Hows & Whys is a curriculum‑aligned, reasoning‑focused educational platform designed to strengthen students’ conceptual understanding across subjects in the UK curriculum. The system addresses a well‑documented gap in contemporary schooling: students often demonstrate factual recall but struggle to articulate coherent explanations of how and why phenomena occur. This limitation affects attainment, transfer of knowledge, and long‑term retention.
+
+This platform operationalises principles from cognitive science, including elaborative interrogation, causal reasoning, metacognitive reflection, and schema construction. Students engage with subject‑specific prompts that require them to explain processes, mechanisms, and causal relationships rather than reproduce memorised definitions. Explanations may be submitted through written responses or audio recordings.
+
+A built‑in reasoning‑analysis engine evaluates student explanations using dimensions such as conceptual accuracy, causal coherence, completeness, and misconception patterns. The system generates structured, formative feedback that guides students toward deeper understanding. Teachers access a dashboard that aggregates reasoning data, highlights common misconceptions, and supports targeted reteaching and intervention.
+
+Importantly, the platform is designed for individual use outside the classroom, mirroring the operational model of established UK EdTech systems such as Seneca, Sparx, Century, Quizizz, and Tassomai. Teachers assign tasks; students complete them independently on personal devices; and the platform provides analytics that inform instructional decision‑making. This model avoids classroom noise constraints, reduces teacher workload, and enables scalable adoption.
+
+Overall, Hows & Whys functions as a reasoning‑first learning environment that complements existing curriculum delivery, enhances students’ explanatory competence, and provides educators with actionable insights into conceptual understanding.
+
+Asking how and why questions is necessary because these question types elicit causal reasoning, mechanistic explanation, and metacognitive reflection—core components of deep learning. They reveal misconceptions that traditional assessments cannot detect, promote the construction of coherent conceptual schemas, and support the transfer of knowledge to new contexts. Cognitive‑science research demonstrates that explanation‑based tasks strengthen long‑term retention through elaborative interrogation and self‑explanation. Within the UK curriculum, which emphasises reasoning, justification, and conceptual understanding, how and why questions provide a valid and reliable method for assessing the depth of student understanding rather than surface‑level recall.
 
 # Core Theoretical Frameworks That Align With Hows & Whys App
 ## 1. Self‑Explanation Theory (Chi, 1989–2000s)
@@ -102,10 +119,12 @@ Key link:
 Self‑explanation improves conceptual understanding, transfer, and error detection — all central to your framework.
 The researchers also looked to see if any particular aspects of the practice of self-explanation make a difference to its effectiveness. They found some limited evidence that a multiple-choice format (in which the student chooses a range of explanations from a list) to be the least effective, perhaps because it lacks the self-generated elaboration that is usually involved in more open-ended self-explanation.
 
+ Self-explanation in the learners’ own words: Using one’s own words to elaborate on a subject matter helps a learner develop a better comprehension of that topic (Kim, 2003). Teachers, lecturers, and instructors in the classroom setting should motivate learners to express the concepts or topics they have learned using their own words. is can be achieved through methods such as concept report writing, show and tell, book reviews, discussions, discovery learning, seminars, and presentations of case studies. 
+
 # 3. Elaborative Interrogation
-Why it aligns:  
-This theory focuses on asking “Why is this true?” to deepen memory and reasoning.
-Your framework operationalises this by pairing How? (mechanism) with Why? (causality).
+"The use of elaboration in learning is a productive memory exercise that strengthens a learner’s ability to acquire knowledge, thereby enhancing memory functioning. Before any information can be encoded, stored, and re-tained in human memory, numerous active mental processes and consolidations must occur. These processes involve various mental activities performed by the learner, such as concept mapping within both non-declarative and declarative memory, facilitating learning at different levels". (Kahl and Woloshyn, 1994).
+
+Elaborative interrogation learning helps promote better comprehension of the topic taught or learned due to the vivid analogies used to create memory traces for the learner. erefore, it is particularly useful for enhanc-ing the retention of sequences or processes, such as the cognitive processes involved in learning, and empow-ers the learner’s memory functioning.•  Elaborative interrogation learning helps learners achieve mastery over the new knowledge acquired. “e more you can explain about the way your new learning relates to your prior knowledge, the stronger your grasp of the new learning will be, and the more connections you create that will help you remember it later” (Brown, Roediger & McDaniel, 2014).•  Repetition of the concepts learned through the learner’s own self-explanation, revision, and rehearsal further enhances the learner’s interest in knowing more. Active learning or active processing produces the most pow-erful and exible learning.•  Elaborative learning encourages learners to take responsibility for their quest for knowledge acquisition, pro-moting self-reliance in the learner.  (Killian, Ahmad and Adu, 2024)
 
 Key link:  
 Elaborative interrogation is one of the most evidence‑backed strategies for conceptual retention.
@@ -117,7 +136,8 @@ Key link:
 Your “why” dimension directly maps to causal inference and causal model construction.
 
 # 5. Mechanistic Reasoning (Russ, 2008; Hmelo‑Silver, 2000s)
-Why it aligns:  
+Why it aligns:
+One of the  primary goals of  science education is to invite  students  to  act  as  scientists  trying  to  provide scientific  explanations  of  natural  phenomena  (NGSS Lead  States,  2013;  National  Research  Council,  2012). Scientific explanations can be based on different kinds of reasoning.  For example,  abductive  reasoning  refers  to “an  inferential  process  in  the  sense  that  it  involves reasoning  used  to  mentally  derive  causal  claims  (i.e., hypotheses/theories) from premises” (Lawson, 2010, p. 338).  Hypothetical-deductive  reasoning  relies  on generating  plausible  predictions  (hypotheses)  for  an observed phenomenon, followed by an investigation to test  the  predictions  (Ding,  2018).  One  form  of  causal reasoning which is often considered essential for science education is mechanistic reasoning (MR), the subject of our study (Krist et al., 2019; Robertson & Shaffer, 2016; Russ et al., 2008; Talanquer, 2018; van Mil et al., 2013).
 Mechanistic reasoning describes how learners understand systems by identifying entities, activities, and interactions — essentially answering How does this work?
 
 Key link:  
@@ -196,7 +216,13 @@ Nesta (2020). The UK finally acts to prevent a lost generation: https://www.nest
 
 Tutorsail (2025), GCSEs: Memory Test or True Understanding? https://tutorsail.com/gcses/?utm_source
 
+Kim, Y. (2003). Eects of input elaboration and enhancement on second language vocabulary acquisition      through reading by Korean learners of English. University of Hawai’i at Manoa.
+
 Waldmann, M. R., & Hagmayer, Y. (2013). Causal reasoning. In D. Reisberg (Ed.), Oxford Handbook of Cognitive Psychology (pp. 733–752). Oxford University Press.
+
+Kahl, B. L., & Woloshyn, V. E. (1994). Using elaborative interrogation to facilitate acquisition of factual   information in cooperative learning settings: One good strategy deserves another. Applied Cognitive     Psychology, 8, 465-478.
+
+Killian, O.T.P., Ahmad, D.A. and Adu, E.O. (2024). Chapter 20: Using elaborative interrogation in classroom settings. Open Books and Proceedings, pp.147–155. doi:https://doi.org/10.38140/obp1-2024-20.
 
 
 ‌
